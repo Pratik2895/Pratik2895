@@ -1,4 +1,4 @@
-Sure, here's a splendid GitHub bio for you:
+
 
 👋 Hi there, I'm Pratik Bhikadiya!
 
