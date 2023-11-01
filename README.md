@@ -3,7 +3,7 @@
 - 📫 How to reach me **bhikadiya.pratik@gmail.com**
 
 - ⚡ Fun fact **An Electrical engineer became IT Professional**
-- ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Pratik2895&show_icons=true)
+
 
 
 <h3 align="left">Connect with me:</h3>
