@@ -1,22 +1,26 @@
-# Hi there! I'm Pratik Bhikadiya
+# Hi there! 👋
 
-Welcome to my GitHub Profile!
+I'm Pratik Bhikadiya, an Electrical Engineer turned IT Professional.
 
-I'm passionate about diving into data, unraveling insights, and creating meaningful stories through analysis. My journey is fueled by curiosity and a deep interest in the realms of data science, AI/ML, and data visualization.
+🌱 I’m good at **Python, R, SQL, Machine Learning, Power BI, Tableau, Looker**.
 
-## Currently on an exciting learning adventure
+📫 You can reach me at [bhikadiya.pratik@gmail.com](mailto:bhikadiya.pratik@gmail.com).
 
-I'm mastering the art of data analytics, data visualization, and data science. Each line of code and every visualization is a step forward on this exhilarating path.
+⚡ Fun fact: An Electrical engineer became an IT Professional.
 
-## Actively seeking collaborative opportunities
+## Connect with me:
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/pratik28952895)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/pratikbhikadiya/)
+[![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/bhikadiyapratik)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/pratik_scribbler)
 
-I'm looking for opportunities in the realm of analysis and data-driven projects. Let's join forces to turn data into gold and transform complexity into clarity.
+## Languages and Tools:
+- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+- ![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg)
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+- ![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+- ![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
+- ![TensorFlow](https://www.tensorflow.org)
 
-## When I'm not immersed in data
-
-You can find me exploring the latest advancements in AI/ML, indulging in a good book, or simply enjoying the outdoors.
-
-## Connect with me on LinkedIn
-
-Explore the world of data, share ideas, and embark on exciting journeys together! [LinkedIn Profile](https://www.linkedin.com/in/pratik-bhikadiya-424b91b1)
+Feel free to connect with me on social media and explore my work with these languages and tools!
 
