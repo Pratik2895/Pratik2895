@@ -1,4 +1,4 @@
-🌱 I’m good at ****Python, R,SQL, Machine Learning, Power BI,Tableau,Looker****
+🌱 I’m good at ****Python, R,SQL, Pyspark , Big Data , Machine Learning,Data bricks, Power BI,Tableau,Looker ****
 
 - 📫 How to reach me **bhikadiya.pratik@gmail.com**
 
