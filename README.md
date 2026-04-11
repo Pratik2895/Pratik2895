@@ -1,39 +1,58 @@
-🌱 I’m good at ****Python, R,SQL, Pyspark , Big Data , Machine Learning,Data bricks, Power BI,Tableau,Looker ****
+# Hi, I'm Pratik Bhikadiya (Pack) 👋
 
-- 📫 How to reach me **bhikadiya.pratik@gmail.com**
+### 🚀 Analytics Engineer | 5+ Years Transforming Data into Trust
+[cite_start]I specialize in building governed analytics layers and scalable lakehouse architectures that bridge the gap between complex data engineering and executive decision-making[cite: 6, 8]. [cite_start]Currently, I'm focused on standardizing enterprise-scale KPIs and formalizing data contracts to ensure metric consistency[cite: 12].
 
-- ⚡ Fun fact **An Electrical engineer became IT Professional**
+---
 
+### 🛠️ Technical Ecosystem
 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | [cite_start]`SQL`, `Python`, `PySpark`, `Spark SQL`, `Bash`, `Jinja` [cite: 13] |
+| **Data Modeling** | [cite_start]`Dimensional Modeling`, `Star Schema`, `SCD Type-2`, `Data Vault`, `Semantic Layers` [cite: 12] |
+| **Cloud & Platforms** | [cite_start]`Databricks (Lakehouse)`, `Azure (ADF, Synapse)`, `AWS (S3, Glue, Redshift)` [cite: 12] |
+| **Governance & Quality** | [cite_start]`Unity Catalog`, `Data Contracts`, `Schema Validation`, `SLA Monitoring` [cite: 12] |
+| **BI & Visualization** | [cite_start]`Power BI`, `Tableau`, `Qlik Sense`, `Looker` [cite: 12] |
+| **DevOps** | [cite_start]`Git`, `GitHub Actions`, `CI/CD`, `Docker`, `Databricks Asset Bundles` [cite: 12] |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pratik28952895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Pratik_Bhikadiya" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pratikbhikadiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratikbhikadiya/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/bhikadiyapratik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Pratik2895" height="30" width="40" /></a>
-<a href="https://instagram.com/pratik_scribbler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratik_scribbler" height="30" width="40" /></a>
+---
 
+### 📈 Professional Impact
+* [cite_start]**Intuit TurboTax:** Reduced metric discrepancies by 60% and optimized Spark transformations to cut compute costs by 25%[cite: 12].
+* [cite_start]**ArcelorMittal Nippon Steel:** Engineered data mart layers serving 500GB+ of financial data monthly using Azure Databricks[cite: 12].
+* [cite_start]**Adani Ports & SEZ:** Managed 30+ warehouse schemas for 2TB+ of operational logistics data[cite: 12].
+
+---
+
+### 📜 Certifications
+* [cite_start]**Databricks** Certified Data Engineer Associate [cite: 12]
+* [cite_start]**Microsoft** Certified: Azure Data Engineer Associate (DP-203) [cite: 12]
+* [cite_start]**Microsoft** Certified: Power BI Data Analyst Associate (PL-300) [cite: 12]
+* [cite_start]**Google** Data Analytics Professional Certificate [cite: 14]
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PRATIK2895&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Pratik's Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATIK2895&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="170" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> </a> </p> 
+---
 
+### 📫 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/pratikbhikadiya/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bhikadiya.pratik@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.kaggle.com/bhikadiyapratik" target="blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ! ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-# 📊 GitHub Stats:
-
-
-![PRATIK2895's Stats](https://github-readme-stats.vercel.app/api?username=PRATIK2895&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![PRATIK2895's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRATIK2895&theme=vue-dark&hide_border=true)
-![PRATIK2895's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRATIK2895&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-<!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
+> [cite_start]**Fun Fact:** I transitioned from **Electrical Engineering** to becoming an **Analytics Engineer**, bringing a methodical "systems-thinking" approach to every data pipeline I build[cite: 12].
