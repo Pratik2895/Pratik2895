@@ -18,10 +18,21 @@ I specialize in building governed analytics layers and scalable lakehouse archit
 
 ---
 
-### 📈 Professional Impact
-* **Intuit TurboTax:** Standardized 50+ KPI definitions and reduced metric discrepancies by 60% using Unity Catalog.
-* **ArcelorMittal Nippon Steel:** Engineered data mart layers serving 500GB+ of monthly financial data using Azure Databricks.
-* **Adani Ports & SEZ:** Managed 30+ warehouse schemas for 2TB+ of operational logistics and cargo analytics data.
+### 📈 The Impact Track
+
+---
+
+* **Building the "Source of Truth" @ Intuit TurboTax**
+    I bridged the gap between raw data and executive strategy by standardizing **50+ KPI definitions**. By formalizing data contracts through **Unity Catalog**, I reduced metric discrepancies by **60%**, ensuring leadership always looks at the same numbers.
+
+* **Engineering at Scale @ ArcelorMittal Nippon Steel**
+    I architected robust data mart layers in **Azure Databricks** to handle the heavy lifting of **500GB+ of monthly financial data**. My goal was simple: make massive datasets accessible, modeled, and ready for high-stakes decision-making.
+
+* **Scaling Enterprise Intelligence @ Adani Ports & SEZ**
+    I managed the data backbone for one of the world's largest port operators, overseeing **30+ warehouse schemas** and **2TB+ of operational logistics data**. I ensured data flowed smoothly across 5 global business units while maintaining 99.5% SLA compliance.
+
+* **Architecture & Quality First**
+    I’m a firm believer in the **Medallion Architecture**. I've built reusable **Data Quality frameworks** that catch **95%+ of defects** before they ever hit a stakeholder's dashboard..
 
 ---
 
