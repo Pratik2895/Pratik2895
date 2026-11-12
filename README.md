@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Pratik 👋</h1>
 
 <p align="center">
-  <strong>Data &amp; Analytics Engineer · Brampton, ON 🇨🇦</strong><br/>
-  Lakehouses · PySpark · Databricks · AWS · Azure
+  <strong>Senior BI / Analytics Engineer · Brampton, ON 🇨🇦</strong><br/>
+  Data Modeling · Governed Semantic Layers · Lakehouse Pipelines
 </p>
 
 <p align="center">
@@ -15,23 +15,23 @@
 
 ### 🧱 What I do
 
-I build **production-grade lakehouse pipelines** and the analytics platforms on top of them. Bronze/Silver/Gold on Databricks, real-time clickstream on Kafka + EMR, and SLA-monitored workflows that Finance, Marketing, and Product teams rely on every day.
+I design **dimensional models and governed semantic layers** that turn complex SQL and business requirements into scalable, trusted data assets. Currently leading a **Databricks migration** rationalizing 420 Synapse tables → 175 Silver Delta tables under **Unity Catalog** governance at **Co-operators Insurance**. 5+ years across finance, tax, insurance, and industrial domains.
 
-**Currently** — Data & Analytics Engineer at **Intuit TurboTax** (5+ yrs total experience).
+**Currently** — Senior Data Integration Engineer at **Co-operators General Insurance** · **Ex-Intuit TurboTax**.
 
 ---
 
 ### 🛠️ Daily driver stack
 
 ```
-Engines      →  PySpark · Spark SQL · Delta Lake · Databricks
-Orchestration →  Databricks Workflows · Airflow · Azure Data Factory
-Cloud        →  AWS (S3 · EMR · Athena · Glue · Redshift · Lambda · CloudWatch)
-                Azure (Databricks · ADF · Synapse · ADLS Gen2)
-Languages    →  Python · SQL · T-SQL
-Serving      →  Power BI · Tableau · Streamlit · dbt
-Ops          →  Unity Catalog · CI/CD · Git · Docker · SLA monitoring
-AI / GenAI   →  RAG · ChromaDB · Gemini · Claude
+Data Modeling   →  Star / Snowflake Schemas · SCD Type-2 · Data Vault · Medallion Architecture
+Engines         →  PySpark · Spark SQL · Delta Lake · Databricks
+Orchestration   →  Databricks Workflows · Azure Data Factory · GitHub Actions · CI/CD
+Cloud           →  AWS (S3 · EMR · Athena · Glue · Redshift) · Azure (Databricks · ADF · Synapse · ADLS Gen2)
+Governance      →  Unity Catalog · RLS/CLS · Data Contracts · Metric Definitions · DQ Frameworks
+Languages       →  Python · SQL · Spark SQL · T-SQL · Jinja
+Serving         →  Power BI · Tableau · Qlik Sense · Self-Service Analytics
+AI / GenAI      →  Agentic AI Platforms · MCP Services · RAG · Databricks Apps
 ```
 
 ---
@@ -44,6 +44,7 @@ AI / GenAI   →  RAG · ChromaDB · Gemini · Claude
 | 🤖 [**AI Stock Intelligence** (CAN/US)](https://github.com/Pratik2895/AI-Stock-Intelligence-CAN-US-Markets) | Multi-source ingestion + RAG across 40 stocks | Airflow · Delta Lake · ChromaDB · Gemini · Docker |
 | 🏎️ [**F1 Azure Databricks Lakehouse**](https://github.com/Pratik2895/F1race_Data_Engineering_DBricks) | End-to-end Azure lakehouse with Unity Catalog | Azure Databricks · ADF · ADLS Gen2 · Power BI |
 | 📊 [**Multi-Channel Marketing Analytics**](https://github.com/Pratik2895/Marketing-Analyst-Technical-Assignment) | Unified KPI model across Facebook / Google / TikTok | Python · Streamlit · Plotly · Data Quality |
+| 🔮 [**Databricks Agentic AI**](https://github.com/Pratik2895/databricks-agentic-ai) | Reusable skills, shared context & MCP integrations for analytics | Databricks · MCP · RAG · Python |
 
 ---
 
@@ -52,6 +53,7 @@ AI / GenAI   →  RAG · ChromaDB · Gemini · Claude
 ![Databricks](https://img.shields.io/badge/Databricks-Data%20Engineer-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-DP--203-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-PL--300-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Google](https://img.shields.io/badge/Google-Data%20Analytics-CSD?-style=flat-square&logo=google&logoColor=white)
 
 ---
 
